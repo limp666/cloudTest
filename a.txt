@@ -1,10 +1,7 @@
 xxx
 22123
 111
-<<<<<<< HEAD
 aaa
 aaaaa
 \
 aaa
-=======
->>>>>>> e8ab8c1d74eb6d46d0db269b682d935b28096e47
